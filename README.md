@@ -1,5 +1,4 @@
-# Functional Programming Principles in Scala
-## Coursera
+# Functional Programming Principles in Scala | Coursera
 
 **Final Course Grade**: 100%
 
