@@ -1,4 +1,7 @@
 # Functional Programming Principles in Scala
+## Coursera
+
+**Final Course Grade**: 100%
 
 **About this course**: Functional programming is becoming increasingly widespread in industry. This trend is driven by the adoption of Scala as the main programming language for many applications. Scala fuses functional and object-oriented programming in a practical package. It interoperates seamlessly with both Java and Javascript. Scala is the implementation language of many important frameworks, including Apache Spark, Kafka, and Akka. It provides the core infrastructure for sites such as Twitter, Tumblr and also Coursera.
 
@@ -16,4 +19,4 @@ Learning Outcomes. By the end of this course you will be able to:
  - reason about properties of functions,
  - understand generic types for functional programs
 
-**Final Course Grade**: 100%
+**Meet the instructor**: Martin Odersky. Computer Science. École Polytechnique Fédérale de Lausanne
